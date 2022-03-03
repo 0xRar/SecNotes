@@ -18,3 +18,7 @@
 to be able to add notes and be a SecNotes contributor please contact via [twitter]
 or discord: 0xRar#4432,<br> If you find any mistakes with the notes please review them with the contributor
 who made the add commit<br> or simply open an [issue].
+
+
+## License
+GPL-3.0 License
