@@ -1,4 +1,6 @@
 [Web Security]: https://github.com/0xRar/SecNotes/tree/main/Web%20Security
+[Network Security]: https://github.com/0xRar/SecNotes/tree/main/Network%20Security
+
 [twitter]: https://twitter.com/fcv9_q
 [issue]: https://github.com/0xRar/SecNotes/issues/new
 <!-- ------------------------------------------------------------------------- -->
@@ -12,7 +14,7 @@
 
 ## Categories 📂
 - **[Web Security]**
-
+- **[Network Security]**
 
 ## Contributing 👨‍👦‍👦
 to be able to add notes and be a SecNotes contributor please contact via [twitter]
