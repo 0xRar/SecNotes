@@ -3,7 +3,7 @@
 [issue]: https://github.com/0xRar/SecNotes/issues/new
 <!-- ------------------------------------------------------------------------- -->
 
-<img height="200px" width=1080px src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F97%2Fe9%2F79%2F97e979731beadb50be38e6e273ebfeef.gif&f=1&nofb=1">
+![secnotes](https://user-images.githubusercontent.com/33517160/156641081-4946732b-c9a4-4305-a8a7-e60986a281ba.png)
 
 # SecNotes 📝
 
