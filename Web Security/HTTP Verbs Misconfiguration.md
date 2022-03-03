@@ -3,7 +3,7 @@
 verbs:
 - `HEAD` (used to get the response headers)
 - `GET` (used to request resources like web pages, images)
-- `POST` (used to submit html from data)
+- `POST` (used to submit html form data)
 - `PUT` (used to upload a file to the server)
 - `DELETE` (used to remove a file from the server)
 - `OPTIONS` (used to check the web server for enabled http verbs)
