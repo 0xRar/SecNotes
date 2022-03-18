@@ -3,7 +3,7 @@ This is a vulnerability tat allows an attacker to include files on a server thro
 
 LFI is mostly caused when a developer is too lazy to write a secure code >.<
 
-```php=
+```php
 <?php
 	$file = $_GET['page'];
 	if (isset($file)){
@@ -57,7 +57,7 @@ There are plenty of ways to get RCE from LFI , among them is by performing Log p
 # RFI (Remote File Inclusion)
 This vulnerability is almost the same to LFI but this one is of course remote , so you can perform almost the same thing in LFI but by accessing a remote vendor saying the code is :
 
-```php=
+```php
 <?php
 	$file = $_REQUEST['file'];
 	if (isset($file)){
