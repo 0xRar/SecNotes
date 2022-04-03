@@ -23,4 +23,4 @@ who made the add commit<br> or simply open an [issue].
 
 
 ## License
-GPL-3.0 License
+[GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
