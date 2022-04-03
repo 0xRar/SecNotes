@@ -1,5 +1,5 @@
 # LFI (Local File Inclusion)
-This is a vulnerability tat allows an attacker to include files on a server through the webbrowser basically to read them, apart from the hosted web-root directory.
+This is a vulnerability that allows an attacker to include files on a server through the web browser basically to read them, apart from the hosted web-root directory.
 
 LFI is mostly caused when a developer is too lazy to write a secure code >.<
 
