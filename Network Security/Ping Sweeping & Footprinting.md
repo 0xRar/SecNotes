@@ -30,7 +30,7 @@ nmap -sn 200.200.12-13.*
 nmap -sn -iL hostslist.txt
 ```
 
-## OS Fingerprinting
+## OS Fingerprinting:
 
 offline fingerprinting can be done with [p0f](https://lcamtuf.coredump.cx/p0f3/).
 
