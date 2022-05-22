@@ -1,6 +1,6 @@
 # Using http verbs/methods to exploit misconfigured webapps:
 
-verbs:
+### Verbs:
 - `HEAD` (used to get the response headers)
 - `GET` (used to request resources like web pages, images)
 - `POST` (used to submit html form data)
