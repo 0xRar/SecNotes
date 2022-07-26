@@ -5,12 +5,13 @@
 [issue]: https://github.com/0xRar/SecNotes/issues/new
 <!-- ------------------------------------------------------------------------- -->
 
+----------------
 ![secnotes](https://user-images.githubusercontent.com/33517160/156641081-4946732b-c9a4-4305-a8a7-e60986a281ba.png)
+----------------
+----------------
 
-# SecNotes 📝
 
 **cyber security notes for your consumption 🐧.**
-
 
 ## Categories 📂
 - **[Web Security]**
