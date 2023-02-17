@@ -37,6 +37,5 @@
 ```
 
 ```shell
-$ service apache2 stop
-$ php -S IP:80
+$ php -S IP:8008
 ```
