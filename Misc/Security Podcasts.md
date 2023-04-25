@@ -107,6 +107,20 @@ gems, Enjoy ♥.
 	<a href="https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw">Spotify</a> 
 	</td>
   </tr>
+  
+  <tr>
+	<td>Security in Arabic - سكيوريتي بالعربي</td>
+	<td> 
+	<a href="https://open.spotify.com/show/4SEZywCqLqOInZtVy2kqHY">Spotify</a> 
+	</td>
+  </tr>
+  
+  <tr>
+	<td>The Defender’s Advantage</td>
+	<td> 
+	<a href="https://open.spotify.com/show/7CFsvR9lOLZiNoVDUltL9X">Spotify</a> 
+	</td>
+  </tr>
 </table>
 
 **By 0xRar**
