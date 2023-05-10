@@ -54,6 +54,13 @@
 	<a href="https://cybertalk.org/feed">Feed Link</a> 
 	</td>
   </tr>
+
+<tr>
+	<td>Troy Hunt</td>
+	<td> 
+	<a href="https://www.troyhunt.com/rss/">Feed Link</a> 
+	</td>
+  </tr>
 </table>
 
 **By 0xRar**
