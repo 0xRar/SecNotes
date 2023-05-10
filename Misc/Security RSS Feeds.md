@@ -37,7 +37,7 @@
   <tr>
 	<td>Dark Reading</td>
 	<td> 
-	<a href="https://darkreading.com/rss/all.xml">Feed Link</a> 
+	<a href="https://www.darkreading.com/rss.xml">Feed Link</a> 
 	</td>
   </tr>
   
