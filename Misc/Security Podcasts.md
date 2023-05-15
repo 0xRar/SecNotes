@@ -121,6 +121,13 @@ gems, Enjoy ♥.
 	<a href="https://open.spotify.com/show/7CFsvR9lOLZiNoVDUltL9X">Spotify</a> 
 	</td>
   </tr>
+	
+  <tr>
+	<td>Critical Thinking - Bug Bounty Podcast</td>
+	<td> 
+	<a href="https://open.spotify.com/show/4GiJnv8f4a4ZR6Jc6TQJ3k">Spotify</a> 
+	</td>
+  </tr>
 </table>
 
 **By 0xRar**
