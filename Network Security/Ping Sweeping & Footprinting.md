@@ -29,6 +29,11 @@ nmap -sn 200.200.12-13.*
 
 nmap -sn -iL hostslist.txt
 ```
+- netdiscover
+```
+# For Local Host Discovery
+netdiscover -r 192.168.X.X
+```
 
 ## OS Fingerprinting:
 
