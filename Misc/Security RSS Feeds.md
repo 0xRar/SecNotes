@@ -61,6 +61,13 @@
 	<a href="https://www.troyhunt.com/rss/">Feed Link</a> 
 	</td>
   </tr>
+
+<tr>
+	<td>Threatpost</td>
+	<td> 
+	<a href="https://threatpost.com/feed">Feed Link</a> 
+	</td>
+  </tr>
 </table>
 
 **By 0xRar**
