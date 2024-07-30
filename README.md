@@ -1,5 +1,6 @@
 [Web Security]: https://github.com/0xRar/SecNotes/tree/main/Web%20Security
 [Network Security]: https://github.com/0xRar/SecNotes/tree/main/Network%20Security
+[Active Directory]: https://github.com/0xRar/SecNotes/tree/main/Active%20Directory
 [Misc]: https://github.com/0xRar/SecNotes/tree/main/Misc
 
 [twitter]: https://twitter.com/fcv9_q
@@ -17,6 +18,7 @@
 ## Categories 📂
 - **[Web Security]**
 - **[Network Security]**
+- **[Active Directory]**
 - **[Misc]**
 
 ## Contributing 👨‍👦‍👦
